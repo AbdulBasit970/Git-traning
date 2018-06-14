@@ -1,0 +1,2 @@
+# Git-traning
+git lectures
